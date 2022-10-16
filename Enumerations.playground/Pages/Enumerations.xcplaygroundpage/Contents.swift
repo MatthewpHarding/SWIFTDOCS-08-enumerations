@@ -1,6 +1,6 @@
 //: ![Swift](swift-logo.png)
 //: Swift v5.7 [official docs](https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html)
-//: # Enumerations
+//: # 8. Enumerations
 //:
 //:
 //: An enumeration defines a common type for a group of related values and enables you to work with those values in a type-safe way within your code.
