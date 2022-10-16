@@ -153,7 +153,7 @@ For example, suppose an inventory tracking system needs to track products by two
 
 Other products are labeled with 2D barcodes in QR code format, which can use any ISO 8859-1 character and can encode a string up to 2,953 characters long:
 
-![Diagram](readme-images/barcode_QR_2x.png))
+![Diagram](readme-images/barcode_QR_2x.png)
 
 It’s convenient for an inventory tracking system to store UPC barcodes as a tuple of four integers, and QR code barcodes as a string of any length.
 
